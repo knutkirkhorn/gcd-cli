@@ -1,5 +1,5 @@
 {
-  "name": "gcd-cli",
+  "name": "@knutkirkhorn/gcd-cli",
   "version": "1.0.0",
   "description": "Get the greatest common devisor of two numbers",
   "bin": {
