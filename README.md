@@ -19,7 +19,7 @@ $ gcd --help
 ```
 
 ## Related
-- [@knutkirkhorn/gcd](https://github.com/Knutakir/gcd)
+- [@knutkirkhorn/gcd](https://github.com/Knutakir/gcd) - API for this module
 
 ## Licence
 MIT © [Knut Kirkhorn](LICENSE)
