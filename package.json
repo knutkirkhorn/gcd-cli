@@ -1,0 +1,35 @@
+{
+  "name": "gcd-cli",
+  "version": "1.0.0",
+  "description": "Get the greatest common devisor of two numbers",
+  "bin": {
+    "gcd": "cli.js",
+    "gcd-cli": "cli.js"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "gcd",
+    "greatest",
+    "common",
+    "devisor",
+    "cli",
+    "math"
+  ],
+  "author": "Knut Kirkhorn",
+  "license": "MIT",
+  "dependencies": {
+    "@knutkirkhorn/gcd": "^1.0.0",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.23.0"
+  }
+}
