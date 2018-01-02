@@ -1,5 +1,5 @@
 # gcd-cli
-Get the greatest common devisor of two numbers CLI
+> Get the greatest common devisor of two numbers CLI
 
 ## Installation
 ```
