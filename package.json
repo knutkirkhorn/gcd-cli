@@ -9,6 +9,10 @@
   "scripts": {
     "test": "ava"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knutakir/gcd-cli.git"
+  },
   "files": [
     "cli.js"
   ],
@@ -26,7 +30,7 @@
   "author": "Knut Kirkhorn",
   "license": "MIT",
   "dependencies": {
-    "@knutkirkhorn/gcd": "^1.0.0",
+    "@knutkirkhorn/gcd": "^1.0.3",
     "meow": "^3.7.0"
   },
   "devDependencies": {
