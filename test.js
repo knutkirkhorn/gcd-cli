@@ -1,6 +1,7 @@
 import test from 'ava';
-import m from '.';
+import execa from 'execa';
 
-test(t => {
-    t.pass();
+test('cli does print out', async t => {
+    const {stdout} = await execa('./cli.js', ['--version']);
+    t.true(stdout.length > 0);
 });
