@@ -1,5 +1,7 @@
 #!/usr/bin/env node
+
 'use strict';
+
 const gcd = require('@knutkirkhorn/gcd');
 const meow = require('meow');
 
@@ -16,7 +18,7 @@ const number1 = cli.input[0];
 const number2 = cli.input[1];
 
 if (!(number1 && number2)) {
-    console.log("You need to specify both numbers.");
+    console.log('You need to specify both numbers.');
     process.exit(1);
 }
 
