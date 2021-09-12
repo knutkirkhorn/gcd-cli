@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Knutakir/gcd-cli.git"
+    "url": "git+https://github.com/knutkirkhorn/gcd-cli.git"
   },
   "files": [
     "cli.js"

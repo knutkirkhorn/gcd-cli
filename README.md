@@ -1,4 +1,4 @@
-# gcd-cli [![Build Status](https://travis-ci.org/Knutakir/gcd-cli.svg?branch=main)](https://travis-ci.org/Knutakir/gcd-cli)
+# gcd-cli [![Build Status](https://travis-ci.org/knutkirkhorn/gcd-cli.svg?branch=main)](https://travis-ci.org/knutkirkhorn/gcd-cli)
 > Get the greatest common devisor of two numbers CLI
 
 ## Installation
@@ -19,7 +19,7 @@ $ gcd --help
 ```
 
 ## Related
-- [@knutkirkhorn/gcd](https://github.com/Knutakir/gcd) - API for this module
+- [@knutkirkhorn/gcd](https://github.com/knutkirkhorn/gcd) - API for this module
 
 ## License
 MIT © [Knut Kirkhorn](LICENSE)
