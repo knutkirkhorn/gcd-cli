@@ -3,8 +3,7 @@
   "version": "1.0.3",
   "description": "Get the greatest common devisor of two numbers",
   "bin": {
-    "gcd": "cli.js",
-    "gcd-cli": "cli.js"
+    "gcd": "cli.js"
   },
   "scripts": {
     "test": "ava",
