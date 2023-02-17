@@ -1,12 +1,15 @@
 # gcd-cli
+
 > Get the greatest common devisor of two numbers CLI
 
 ## Installation
+
 ```
 $ npm install --global @knutkirkhorn/gcd-cli 
 ```
 
 ## Usage
+
 ```
 $ gcd --help
 
@@ -19,7 +22,5 @@ $ gcd --help
 ```
 
 ## Related
-- [@knutkirkhorn/gcd](https://github.com/knutkirkhorn/gcd) - API for this module
 
-## License
-MIT © [Knut Kirkhorn](LICENSE)
+- [@knutkirkhorn/gcd](https://github.com/knutkirkhorn/gcd) - API for this module
