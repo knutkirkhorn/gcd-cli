@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-$ npm install --global @knutkirkhorn/gcd-cli 
+npm install --global @knutkirkhorn/gcd-cli
 ```
 
 ## Usage
@@ -13,12 +13,12 @@ $ npm install --global @knutkirkhorn/gcd-cli
 ```
 $ gcd --help
 
-        Usage
-          $ gcd <number1> <number2>
+  Usage
+    $ gcd <number1> <number2>
 
-        Examples
-          $ gcd 12 20
-          $ gcd 13 234 
+  Examples
+    $ gcd 12 20
+    $ gcd 13 234
 ```
 
 ## Related
